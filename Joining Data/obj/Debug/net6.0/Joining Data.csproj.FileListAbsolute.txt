@@ -1,0 +1,15 @@
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\Joining Data\Joining Data\bin\Debug\net6.0\Joining Data.exe
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\Joining Data\Joining Data\bin\Debug\net6.0\Joining Data.deps.json
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\Joining Data\Joining Data\bin\Debug\net6.0\Joining Data.runtimeconfig.json
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\Joining Data\Joining Data\bin\Debug\net6.0\Joining Data.dll
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\Joining Data\Joining Data\bin\Debug\net6.0\Joining Data.pdb
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\Joining Data\Joining Data\obj\Debug\net6.0\Joining Data.csproj.AssemblyReference.cache
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\Joining Data\Joining Data\obj\Debug\net6.0\Joining Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\Joining Data\Joining Data\obj\Debug\net6.0\Joining Data.AssemblyInfoInputs.cache
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\Joining Data\Joining Data\obj\Debug\net6.0\Joining Data.AssemblyInfo.cs
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\Joining Data\Joining Data\obj\Debug\net6.0\Joining Data.csproj.CoreCompileInputs.cache
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\Joining Data\Joining Data\obj\Debug\net6.0\Joining Data.dll
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\Joining Data\Joining Data\obj\Debug\net6.0\refint\Joining Data.dll
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\Joining Data\Joining Data\obj\Debug\net6.0\Joining Data.pdb
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\Joining Data\Joining Data\obj\Debug\net6.0\Joining Data.genruntimeconfig.cache
+C:\Users\andre\Dropbox\My PC (DESKTOP-4BDI30V)\Desktop\Intro\Joining Data\Joining Data\obj\Debug\net6.0\ref\Joining Data.dll
